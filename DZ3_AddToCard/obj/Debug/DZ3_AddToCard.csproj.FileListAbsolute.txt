@@ -1,0 +1,17 @@
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\NUnit3.TestAdapter.dll
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\NUnit3.TestAdapter.pdb
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\nunit.engine.dll
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\nunit.engine.api.dll
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\DZ3_AddToCard.exe
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\DZ3_AddToCard.pdb
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\nunit.framework.dll
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\WebDriver.dll
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\nunit.framework.pdb
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\nunit.framework.xml
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\WebDriver.xml
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\obj\Debug\DZ3_AddToCard.csprojAssemblyReference.cache
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\obj\Debug\DZ3_AddToCard.csproj.CoreCompileInputs.cache
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\obj\Debug\DZ3_AddToCard.csproj.CopyComplete
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\obj\Debug\DZ3_AddToCard.exe
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\obj\Debug\DZ3_AddToCard.pdb
+D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard\DZ3_AddToCard\bin\Debug\WebDriver.Support.dll

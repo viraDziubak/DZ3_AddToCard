@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\HOME\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\HOME\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DZ3_AddToCard.91931180.00" t="ExcludeRecursive" />
+    <e p="D:\SET\DZ_3_AT\DZ3_AddToCard\DZ3_AddToCard" t="IncludeFlat">
+      <e p="DZ3_AddToCard" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DZ3_AddToCard.csproj" t="IncludeRecursive" />
+        <e p="Framework" t="Include">
+          <e p="Selenium.cs" t="Include" />
+          <e p="Settings.cs" t="Include" />
+          <e p="Wait.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="PageObject" t="Include">
+          <e p="MainPage.cs" t="Include" />
+          <e p="PageObjectBase.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tests" t="Include">
+          <e p="AddCard.cs" t="Include" />
+          <e p="BaseTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DZ3_AddToCard.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive">
+        <e p="NUnit3TestAdapter.3.16.1\build\net35\nunit.engine.api.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.16.1\build\net35\nunit.engine.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.16.1\build\net35\NUnit3.TestAdapter.dll" t="Include" />
+        <e p="NUnit3TestAdapter.3.16.1\build\net35\NUnit3.TestAdapter.pdb" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
